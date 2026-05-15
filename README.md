@@ -28,3 +28,5 @@ However, tools that analyze code pose certain risks to programmers' privacy — 
 Moreover, these types of tools can be used for surveillance purposes, as the use of them may allow employers to keep track of the code written by employees without the latter even knowing about it.
 Finally, as artificial intelligence starts generating code for people, tools for parsing and lexical analysis become critical components of AI-based programming automation tools that will eventually take away jobs from programmers.
  
+run with elixir filename.ex filename.cpp
+
